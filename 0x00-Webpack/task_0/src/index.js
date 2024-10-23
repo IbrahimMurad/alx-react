@@ -1,5 +1,4 @@
 import $ from 'jquery';
-import 'jquery/dist/jquery.min.js';
 
 $('body').prepend('<p>Holberton Dashboard</p>');
 
