@@ -1,4 +1,4 @@
-import $ from 'jquery';
+const $ = require('jquery');
 
 $('body').prepend('<p>Holberton Dashboard</p>');
 
