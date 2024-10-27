@@ -1,0 +1,16 @@
+.App-header {
+    border-bottom: 2px solid red;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.App-header h1 {
+    color: red;
+}
+
+.App-header img {
+    width: 10rem;
+    height: 10rem;
+    margin-right: 20px;
+}

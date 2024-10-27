@@ -1,0 +1,18 @@
+.App-body {
+  padding: 20px;
+}
+
+input {
+  font-size: 1rem;
+  margin: 0.5rem;
+}
+
+.App-body button {
+  padding: 8px 1rem;
+  border-radius: 7px;
+  background-color: white;
+  border-color: darkgray;
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin: 0.4rem;
+}

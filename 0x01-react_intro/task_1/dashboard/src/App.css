@@ -1,0 +1,35 @@
+html {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  border-bottom: 2px solid red;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.App-header h1 {
+  color: red;
+}
+
+.App-header img {
+  width: 10rem;
+  height: 10rem;
+  margin-right: 20px;
+}
+
+.App-body {
+  padding: 20px;
+}
+
+.App-footer {
+  border-top: 2px solid red;
+  padding: 20px;
+  font-style: italic;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}

@@ -1,0 +1,27 @@
+#CourseList {
+    max-width: 90%;
+    min-width: 50%;
+    border: 2px solid lightgray;
+    margin: 10px 30px;
+}
+
+thead {
+    color: #fff;
+    border-bottom: 1.5px solid #2c2c2c;
+}
+
+th {
+    color: rgb(0, 0, 0);
+    font-size: 1.2em;
+    padding: 10px;
+    border-bottom: 1.5px solid lightgray;
+    text-align: left;
+}
+
+th[colspan="2"] {
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+}
